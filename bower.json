@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "description": "Atividade Workflow curso Certificacao Bootstrap",
+  "main": "index.js",
+  "authors": [
+    "Cayo Murillo Teixeira dos Santos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "certificacao",
+    "workflow",
+    "atividade"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
